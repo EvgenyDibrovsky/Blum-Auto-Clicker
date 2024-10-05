@@ -111,10 +111,9 @@ If you prefer using an IDE like PyCharm or VSCode:
 ## Gratitude
 
 If this project was helpful, you can support the developer by sending cryptocurrency to one of the wallets below.
-
-**Toncoin (TON)** | `UQCmxDxpdR9q2cNkynVhRNxSo76qOAzhzu1IepB2VaTWV0gm` | <img width="200" height="200" src="https://github.com/user-attachments/assets/6b24c941-bf20-4ab3-8bf1-8da8cc346511">  
-  
-       
-**Tether (USDT)** | `UQCmxDxpdR9q2cNkynVhRNxSo76qOAzhzu1IepB2VaTWV0gm` | <img width="200" height="200" src="https://github.com/user-attachments/assets/83320e17-e727-4a5a-8651-853dc061c691">
  
  
+| Cryptocurrency   | Address                                                                                     | QR Code                                                                                                                                  |
+|------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| **Toncoin (TON)**  | `UQCmxDxpdR9q2cNkynVhRNxSo76qOAzhzu1IepB2VaTWV0gm`                                          | <img width="200" height="200" src="https://github.com/user-attachments/assets/6b24c941-bf20-4ab3-8bf1-8da8cc346511">                    |
+| **Tether (USDT)**  | `0x320a80aa5842dab4e8375f426225de6b0a221ed3`                                          | <img width="200" height="200" src="https://github.com/user-attachments/assets/83320e17-e727-4a5a-8651-853dc061c691">                    |
