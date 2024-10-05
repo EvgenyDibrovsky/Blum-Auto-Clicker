@@ -19,7 +19,7 @@ Blum - Auto Clicker is a utility designed to automate clicks in the Blum.io appl
 1. **Clone the repository**
    - Open a terminal and run the following command to clone the repository:
      ```sh
-     git clone https://github.com/EvgenyDibrovsky/Blum-Auto-Clicker
+     git clone https://github.com/EvgenyDibrovsky/Blum-Auto-Clicker.git
      ```
 
 2. **Navigate to the project directory**
