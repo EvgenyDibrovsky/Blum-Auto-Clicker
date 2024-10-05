@@ -10,9 +10,7 @@ Blum - Auto Clicker is a utility designed to automate clicks in the Blum.io appl
 4. Ability to configure the clickable area and start button.
 
 ### Demo
-<p align="center">
- 
-</p>
+<img width="360" height="640" src="https://github.com/user-attachments/assets/d1b1571e-376d-4721-a497-b5bda99cde73">
 
 ## Installation and Setup
 
