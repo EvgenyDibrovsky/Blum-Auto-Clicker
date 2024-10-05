@@ -112,7 +112,5 @@ If you prefer using an IDE like PyCharm or VSCode:
 
 If this project was helpful, you can support the developer by sending cryptocurrency to one of the wallets below.
 
-**Toncoin (TON)** | ` `         
-**Tether (USDT) TRC20** | ` ` 
-**Bitcoin (BTC)** | ` `   
-**Ethereum (ETH)** | ` `           
+**Toncoin (TON)** | `UQCmxDxpdR9q2cNkynVhRNxSo76qOAzhzu1IepB2VaTWV0gm` |         
+**Tether (USDT)** | `UQCmxDxpdR9q2cNkynVhRNxSo76qOAzhzu1IepB2VaTWV0gm` |       
