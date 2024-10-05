@@ -87,7 +87,7 @@ If you prefer using an IDE like PyCharm or VSCode:
    - After the build process is complete, the executable will be located in the `dist/autoclicker_v3.0_by_crypto_groove` directory.
 
 ## How to Use
-
+<img width="200" height="200" src="https://github.com/user-attachments/assets/b076825d-3d57-45e4-95b1-1207dac4038a">
 ### 1. Launching the Application
 - Open the Blum Auto Clicker.
 - The main window will show several buttons for configuring and controlling the auto clicker.
